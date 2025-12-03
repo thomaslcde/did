@@ -10,11 +10,11 @@
       "type": "JsonWebKey2020",
       "controller": "did:web:raw.githubusercontent.com:thomaslcde:did:refs:heads:main",
       "publicKeyJwk": {
-        "e":"AQAB",
-        "kid":"B2Io5KMfr3C9xLPLsXgUhGDpbZlGJxK_ysL5B6ebP0U",
-        "kty":"RSA",
-        "n":"sDbEl0mznaYFFmK4z9YzcKFPwBxAHggEKbwmcLydpyTt7a4t47Hz3XvmrJ3HwJvt40VUBHnAwVKcwln42Q4dmG5iRe2fWF9paHI3WPbyXzk4cW54g32vsJUtjGv4KDjO192K3f0Ut-ZxigoeIrrunwzmZkKDDjS1-zxrTszATS6a530uJjEKsXeD5wHCaNgUWtJmJdx2MzbGqGVRc-kqgh4Mgolf5df-I32bwABWSdGdPtjlBeG6TkQI5oJ5FLEPWIRqG7MWZAkJlQP-WeBMwnQe_FRkCCkTKcbyjI0BYCvWglACmeE-yBOgo07fbv3E9II6BED6JwImzTamvLyd7w"
-  "alg": "RS256",
+       "e": "AQAB",
+    "kid": "9WpKFr4XisyxYIg9W7rWsNTYAOwrBoHLJ1BwbYtz5tg",
+    "kty": "RSA",
+    "n": "hvO7PBxl-qBkpygLPWpYqgXKP9Rq41puTM3-Bfzg3UpJ4Kf31dooCNoLCb0CvxthKY8CqNuZa75BDFj2cftvTqmERdorV5Zt4BBfbwsQmiwBBpElUvDPypebI0joQebiUVN0HJtXgB8UkSx5StItD4U0Sr2Xyb4uY9LStPa46w_72zhPCEZ1p-47yRN1ObPi2dMhTZ2kKumymSoymljFoIOo6KR-1yP9EdzwLfgMfcz6Ei44lgoEZ6ZbXL3Ip-LhptLMUJOfq4F16gC-JfYhBhIDVvmX_JC3Ox-RiBEH-SVtitPAW31fAaZfLj2kR67RxcWQH5KrO_MZHHAhhkSBrQ",
+ "alg": "RS256",
   "ext": true,
   "key_ops": [
     "verify"
