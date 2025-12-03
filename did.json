@@ -10,16 +10,17 @@
       "type": "JsonWebKey2020",
       "controller": "did:web:raw.githubusercontent.com:thomaslcde:did:refs:heads:main",
       "publicKeyJwk": {
-  "alg": "RS256",
-  "e": "AQAB",
-  "ext": true,
-  "key_ops": [
-    "verify"
-  ],
-  "kty": "RSA",
-  "n": "9-JWP0E8ONRRyGPAxLdVtwKoEk5dc6wdaMerdMqsXtpV2g_-hQ6oGLqk9wlF2cLsyRHE00ztM0aoFoOcg4fFtbzbvGWUZS6H5Kt6lWO1ccrsKHB1i9G3BesXJMYhUIwcXFy1210vu6izxLOnC58rIZweAYUAC_0LcFXaBz0EyZ7gQicv93lk0GIHLOzjB613SdY8Qv71ykSFj3w3TWKR2wsdWhKx9rLpE9OmgBudtMoWmvlKnFgz57rIPALcNFcQjZIcGhThLag9rxfa5RbqjOTq1ZR-q5FK_yImJadFgH1yz9N38z85-Scfyg7peLMK4eUHR_TOBDYlb6UsZeSUbQ",
-  "kid": "VZrV63Sc54f0i5TrP6eDpAymUsnpL4GUxYtdsSyHEMo="
-}
+          "alg": "RS256",
+          "e": "AQAB",
+          "ext": true,
+          "key_ops": [
+            "verify"
+          ],
+          "kty": "RSA",
+          "n": "9-JWP0E8ONRRyGPAxLdVtwKoEk5dc6wdaMerdMqsXtpV2g_-hQ6oGLqk9wlF2cLsyRHE00ztM0aoFoOcg4fFtbzbvGWUZS6H5Kt6lWO1ccrsKHB1i9G3BesXJMYhUIwcXFy1210vu6izxLOnC58rIZweAYUAC_0LcFXaBz0EyZ7gQicv93lk0GIHLOzjB613SdY8Qv71ykSFj3w3TWKR2wsdWhKx9rLpE9OmgBudtMoWmvlKnFgz57rIPALcNFcQjZIcGhThLag9rxfa5RbqjOTq1ZR-q5FK_yImJadFgH1yz9N38z85-Scfyg7peLMK4eUHR_TOBDYlb6UsZeSUbQ",
+          "kid": "VZrV63Sc54f0i5TrP6eDpAymUsnpL4GUxYtdsSyHEMo=",
+          "x5u": "https://raw.githubusercontent.com/thomaslcde/did/refs/heads/main/notary_public.pem"
+        }
     }
   ],
   "assertionMethod": [
