@@ -11,7 +11,7 @@
       "controller": "did:web:raw.githubusercontent.com:thomaslcde:did:refs:heads:main",
       "publicKeyJwk": {
        "e": "AQAB",
-    "kid": "key0",
+    "kid": "9WpKFr4XisyxYIg9W7rWsNTYAOwrBoHLJ1BwbYtz5tg",
     "kty": "RSA",
     "n": "hvO7PBxl-qBkpygLPWpYqgXKP9Rq41puTM3-Bfzg3UpJ4Kf31dooCNoLCb0CvxthKY8CqNuZa75BDFj2cftvTqmERdorV5Zt4BBfbwsQmiwBBpElUvDPypebI0joQebiUVN0HJtXgB8UkSx5StItD4U0Sr2Xyb4uY9LStPa46w_72zhPCEZ1p-47yRN1ObPi2dMhTZ2kKumymSoymljFoIOo6KR-1yP9EdzwLfgMfcz6Ei44lgoEZ6ZbXL3Ip-LhptLMUJOfq4F16gC-JfYhBhIDVvmX_JC3Ox-RiBEH-SVtitPAW31fAaZfLj2kR67RxcWQH5KrO_MZHHAhhkSBrQ",
  "alg": "RS256",
