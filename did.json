@@ -10,7 +10,7 @@
       "type": "JsonWebKey2020",
       "controller": "did:web:raw.githubusercontent.com:thomaslcde:did:refs:heads:main",
       "publicKeyJwk": {
-"alg": "RS256",
+  "alg": "RS256",
   "e": "AQAB",
   "ext": true,
   "key_ops": [
@@ -18,7 +18,7 @@
   ],
   "kty": "RSA",
   "n": "sIJS75O8pX2U16QBP_NqUGn9wIaoVowVcaT0SoKv21WJ5TGIwPIMbMaTeqw40zIVccvJr-GODOQdrHXSL1ZcSaUZ6ibiIcrXsA9N8w9SRULxtUNXgt4PGjYPbN5r4j1ONcATCu92KIZaCqtxFksmn_m4B5cMqK4gMRlWDzAW2MxQYGdnWc5fP5Q116Yk_oph0qW-e-59vv0wVG9ulpshxNAfCdNe13yoqnDX85oEUmaK2s0DUBsRGHvgIjy4jPinoXtp5UUgnOrvDHfdseOKIAfLhHOokgGgi-g8ojkrKm6oWx0118ksFvl7kZiPss1B1hWyCqUrFxbgK_VTCa_dqw",
-  "kid": "przy9EyX2tCbU47b2JLpbQUzxU2Gd4VAwUoMd07aDvk=",
+  "kid": "przy9EyX2tCbU47b2JLpbQUzxU2Gd4VAwUoMd07aDvk="
           "x5u": "https://raw.githubusercontent.com/thomaslcde/did/refs/heads/main/cert.pem"
         }
     }
