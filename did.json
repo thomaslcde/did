@@ -10,16 +10,16 @@
       "type": "JsonWebKey2020",
       "controller": "did:web:raw.githubusercontent.com:thomaslcde:did:refs:heads:main",
       "publicKeyJwk": {
+        "e":"AQAB",
+        "kid":"B2Io5KMfr3C9xLPLsXgUhGDpbZlGJxK_ysL5B6ebP0U",
+        "kty":"RSA",
+        "n":"sDbEl0mznaYFFmK4z9YzcKFPwBxAHggEKbwmcLydpyTt7a4t47Hz3XvmrJ3HwJvt40VUBHnAwVKcwln42Q4dmG5iRe2fWF9paHI3WPbyXzk4cW54g32vsJUtjGv4KDjO192K3f0Ut-ZxigoeIrrunwzmZkKDDjS1-zxrTszATS6a530uJjEKsXeD5wHCaNgUWtJmJdx2MzbGqGVRc-kqgh4Mgolf5df-I32bwABWSdGdPtjlBeG6TkQI5oJ5FLEPWIRqG7MWZAkJlQP-WeBMwnQe_FRkCCkTKcbyjI0BYCvWglACmeE-yBOgo07fbv3E9II6BED6JwImzTamvLyd7w"
   "alg": "RS256",
-  "e": "AQAB",
   "ext": true,
   "key_ops": [
     "verify"
   ],
-  "kty": "RSA",
-  "n": "sIJS75O8pX2U16QBP_NqUGn9wIaoVowVcaT0SoKv21WJ5TGIwPIMbMaTeqw40zIVccvJr-GODOQdrHXSL1ZcSaUZ6ibiIcrXsA9N8w9SRULxtUNXgt4PGjYPbN5r4j1ONcATCu92KIZaCqtxFksmn_m4B5cMqK4gMRlWDzAW2MxQYGdnWc5fP5Q116Yk_oph0qW-e-59vv0wVG9ulpshxNAfCdNe13yoqnDX85oEUmaK2s0DUBsRGHvgIjy4jPinoXtp5UUgnOrvDHfdseOKIAfLhHOokgGgi-g8ojkrKm6oWx0118ksFvl7kZiPss1B1hWyCqUrFxbgK_VTCa_dqw",
-  "kid": "przy9EyX2tCbU47b2JLpbQUzxU2Gd4VAwUoMd07aDvk=",
-          "x5u": "https://raw.githubusercontent.com/thomaslcde/did/refs/heads/main/cert.pem"
+         "x5u": "https://raw.githubusercontent.com/thomaslcde/did/refs/heads/main/cert.pem"
         }
     }
   ],
